@@ -1,0 +1,5 @@
+ls - Listar
+mkdir - Criar pasta
+cd - Entrar em uma pasta
+ls -a - mostrar pastas oculpas 
+mv - Mover arquivo ou pasta
